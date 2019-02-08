@@ -1,2 +1,2 @@
 # Sorting
-Sorting algos written in c
+Divide and conquer Sorting algos written in c
